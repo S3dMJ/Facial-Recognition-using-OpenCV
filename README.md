@@ -8,4 +8,4 @@ In the next step we are required to find the 128d feature vector before the trai
 
 # Step Three
 In this the step, the real time gathered from the webcam using cv2 library was then compared to the list of encodings to find a match. If a match was found the name of the match will be visible under the face region, and if no match was found then the phrase “unknown” will be visible. The following is an example of this step.
-![Screenshot](EE490_Task3_screenshot_14.04.2022.png.png)
+![alt text](https://github.com/S3dMJ/EE490_A4/blob/main/EE490_Task3_screenshot_14.04.2022.png?raw=true)
