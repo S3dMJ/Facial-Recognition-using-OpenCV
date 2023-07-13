@@ -1,4 +1,4 @@
-# EE490 Assignment Four
+# Facial Recognition using OpenCV
 
 # Step One
 In this task we are required to make a dataset of 6 members of the Jurassic Park cast and adding pictures of the team members. Downloading the 270 images manually will take a lot of time and effort. A programming library called Bing Image downloader was used in this step. This library enabled us to download all images in less than 15 minutes. The dataset was stored in a folder called “Images”. This folder has a nine folder, each folder is named after a person and has 30 images of that person.
